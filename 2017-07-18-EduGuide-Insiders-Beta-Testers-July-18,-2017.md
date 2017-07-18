@@ -6,13 +6,13 @@ permalink: /eduguide-insiders-beta-testers-july-18,-2017/
 source-id: 1mVt2UGLmdfErAiN0LReWTBckamAkwZ9wFvEh-8yuQpA
 published: true
 ---
-EduGuide Insiders
+# EduGuide Insiders
 
-Beta Testers
+## Beta Testers
 
 **July 18, 2017**
 
-# Invitations for Podio
+### Invitations for Podio
 
 Starting this week, all of the discussion, assignments, and issue tracking will be handled via a tool called Podio. This will help to consolidate everything under one tool. I will be phasing out the use of Trello and Slack.
 
@@ -42,7 +42,8 @@ The workspace inside Podio is separated into different areas which Podio refers 
 
 There is a place where you can post a comment next to items that have been posted, plus there is a kind of homepage where you can post general messages. Click on the speech bubbles over on the upper right hand corner of the screen to send someone a private chat message. If you have any questions, feel free to send me a private DM or email me at [helpdesk@gmail.com](mailto:helpdesk@gmail.com).
 
-# Development Update
+
+### Development Update
 
 Over the weekend, the developers completed the migration to a new server.
 
