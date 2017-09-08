@@ -17,7 +17,7 @@
 ## Resources
 
 * [Medium](https://medium.com/eduguide-insider)
-* [Google Community](
+* [Google Community](https://eduguideinsiders.gitbooks.io/eduguide-insiders/content/)
 
 
 
