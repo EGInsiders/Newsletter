@@ -15,3 +15,5 @@ published: false
 <h2>Using the Freshdesk Forum</h2>
 <p>The EduGuide Insider forum will only show up if you are given access to it. So, go ahead and join our support site at http://eduguide.freshdesk.com then send me an email and I will make the necessary adjustment to your account. After that, you will be able to post questions, issues, and suggestions inside our forum.</p>
 <p>I can be reached at <a href="mailto:jon@eduguide.org">jon@eduguide.org</a>.</p>
+<p></p>
+<p><a href="https://docs.google.com/document/d/1grGCYaQqTHZPu6StyJ3OzNzMP6KVawp07GExR0r1WtE/edit?usp=sharing">Edit Google Doc</a></p>
