@@ -1,6 +1,6 @@
 ---
 ID: 229
-post_title: 'Q Why can&#8217;t I send invites'
+post_title: 'Q: How do I add students and coaches to my team?'
 author: Jon Morganeg
 post_excerpt: ""
 layout: post
@@ -22,4 +22,4 @@ published: false
 <p></p>
 <p>The button “Invite Members” is displayed next to the name of each group on the “Groups” page. Click this button to be taken to the page where you can grab the join code or URL for that group. A third option is to add existing members to that group manually.</p>
 <p><img src="http://eduguideinsiders.shepherdhistory.org/wp-content/uploads/2017/10/null-2.png" width="624" height="354" alt="" title=""></p>
-<p></p>
+<p><a href="https://docs.google.com/document/d/1hFkcjmXjA7GZ-eKy-wuW2W71HRr2ROwjTWfEGj8t4zY/edit?usp=sharing">Edit Google Doc</a></p>
