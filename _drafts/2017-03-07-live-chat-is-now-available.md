@@ -5,9 +5,8 @@ author: 32bpwr3@gmail.com
 post_excerpt: ""
 layout: post
 permalink: >
-  http://eduguideinsiders.shepherdhistory.org/2017/03/07/live-chat-is-now-available/
-published: true
-post_date: 2017-03-07 17:55:09
+  http://eduguideinsiders.shepherdhistory.org/?p=40
+published: false
 ---
 This week we will begin offering live chat to our members as an option when they have questions about the site or wish to report an issue. When someone is available, the link "Chat with us" will appear in the main navigation next to the logo on our site, or in the path side menu. When users click the link, the chat interface will open and they will be prompted for their name and contact information. Once the chat session begins, they can ask their question or describe their issue.
 
