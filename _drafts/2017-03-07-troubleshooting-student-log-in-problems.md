@@ -5,9 +5,8 @@ author: Jon Morganeg
 post_excerpt: ""
 layout: post
 permalink: >
-  http://eduguideinsiders.shepherdhistory.org/2017/03/07/troubleshooting-student-log-in-problems/
-published: true
-post_date: 2017-03-07 22:08:56
+  http://eduguideinsiders.shepherdhistory.org/?p=43
+published: false
 ---
 <h1>Troubleshooting Student Login Problems</h1>
 <p></p>
