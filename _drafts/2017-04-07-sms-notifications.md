@@ -5,9 +5,8 @@ author: Jon Morganeg
 post_excerpt: ""
 layout: post
 permalink: >
-  http://eduguideinsiders.shepherdhistory.org/2017/04/07/sms-notifications/
-published: true
-post_date: 2017-04-07 13:15:03
+  http://eduguideinsiders.shepherdhistory.org/?p=103
+published: false
 ---
 <h1>SMS Notifications Feature</h1>
 <p></p>
