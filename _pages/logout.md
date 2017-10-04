@@ -3,9 +3,9 @@ ID: 264
 post_title: Logout
 author: Jon Morganeg
 post_excerpt: ""
-layout: post
+layout: page
 permalink: >
-  http://eduguideinsiders.shepherdhistory.org/2017/10/04/logout/
+  http://eduguideinsiders.shepherdhistory.org/logout/
 published: true
 post_date: 2017-10-04 19:09:39
 ---
