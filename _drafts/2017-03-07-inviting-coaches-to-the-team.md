@@ -5,9 +5,8 @@ author: Jon Morganeg
 post_excerpt: ""
 layout: post
 permalink: >
-  http://eduguideinsiders.shepherdhistory.org/2017/03/07/inviting-coaches-to-the-team/
-published: true
-post_date: 2017-03-07 22:33:39
+  http://eduguideinsiders.shepherdhistory.org/?p=53
+published: false
 ---
 After a team is launched, admin coaches are able to invite additional coaches to the team from the Coaches page.
 
