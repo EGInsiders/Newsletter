@@ -5,9 +5,8 @@ author: Jon Morganeg
 post_excerpt: ""
 layout: post
 permalink: >
-  http://eduguideinsiders.shepherdhistory.org/2017/03/16/preview-the-next-eduguide-homepage/
-published: true
-post_date: 2017-03-16 18:52:11
+  http://eduguideinsiders.shepherdhistory.org/?p=77
+published: false
 ---
 <p>In this exercise, I’m asking you to take a look at a rough draft for our homepage and then respond with feedback. Answer the following questions:</p>
 <p></p>
