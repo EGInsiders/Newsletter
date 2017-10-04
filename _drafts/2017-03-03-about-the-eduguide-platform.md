@@ -5,9 +5,8 @@ author: 32bpwr3@gmail.com
 post_excerpt: ""
 layout: post
 permalink: >
-  http://eduguideinsiders.shepherdhistory.org/2017/03/03/about-the-eduguide-platform/
-published: true
-post_date: 2017-03-03 02:13:21
+  http://eduguideinsiders.shepherdhistory.org/?p=32
+published: false
 ---
 <img class="wp-image-33" src="http://eduguideinsiders.shepherdhistory.org/wp-content/uploads/2017/03/word-image.jpg" width="103" height="97" />
 
