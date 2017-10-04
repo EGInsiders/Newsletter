@@ -5,9 +5,8 @@ author: Jon Morganeg
 post_excerpt: ""
 layout: post
 permalink: >
-  http://eduguideinsiders.shepherdhistory.org/2017/05/18/live-support-available-via-chat/
-published: true
-post_date: 2017-05-18 02:05:45
+  http://eduguideinsiders.shepherdhistory.org/?p=88
+published: false
 ---
 <h1>Live Support available via Chat</h1>
 <p>If you have a question, run into an issue, or have a suggestion for improving the site, you can now chat with an EduGuide staff member live during business hours.</p>
