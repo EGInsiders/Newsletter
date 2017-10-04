@@ -7,9 +7,8 @@ author: Jon Morganeg
 post_excerpt: ""
 layout: post
 permalink: >
-  http://eduguideinsiders.shepherdhistory.org/2017/05/18/adjusting-students-daily-activity-limits/
-published: true
-post_date: 2017-05-18 02:05:41
+  http://eduguideinsiders.shepherdhistory.org/?p=90
+published: false
 ---
 <h1>Adjusting students’ daily activity limits</h1>
 <p></p>
