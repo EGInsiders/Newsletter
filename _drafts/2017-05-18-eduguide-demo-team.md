@@ -5,9 +5,8 @@ author: Jon Morganeg
 post_excerpt: ""
 layout: post
 permalink: >
-  http://eduguideinsiders.shepherdhistory.org/2017/05/18/eduguide-demo-team/
-published: true
-post_date: 2017-05-18 02:05:19
+  http://eduguideinsiders.shepherdhistory.org/?p=107
+published: false
 ---
 <h1>EduGuide Demo Team</h1>
 The EduGuide Demo Team is a single team which is offered to potential partners who are interested in the platform, but want to test it out before they sign up. Visitors can join the demo team by clicking on one of the two buttons which are displayed on the homepage. From that point forward, they are prompted to either log into an existing account, or to start a new account by entering in their registration information. Upon joining the site/team, they are routed into the first page in their path.
