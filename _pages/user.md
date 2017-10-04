@@ -3,9 +3,9 @@ ID: 254
 post_title: User
 author: Jon Morganeg
 post_excerpt: ""
-layout: post
+layout: page
 permalink: >
-  http://eduguideinsiders.shepherdhistory.org/2017/10/04/user/
+  http://eduguideinsiders.shepherdhistory.org/user/
 published: true
 post_date: 2017-10-04 19:09:02
 ---
