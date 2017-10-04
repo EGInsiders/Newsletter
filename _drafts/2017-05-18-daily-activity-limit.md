@@ -5,9 +5,8 @@ author: Jon Morganeg
 post_excerpt: ""
 layout: post
 permalink: >
-  http://eduguideinsiders.shepherdhistory.org/2017/05/18/daily-activity-limit/
-published: true
-post_date: 2017-05-18 02:05:37
+  http://eduguideinsiders.shepherdhistory.org/?p=92
+published: false
 ---
 <h1>Daily Activity Limit</h1>
 <p></p>
