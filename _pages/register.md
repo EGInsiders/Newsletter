@@ -3,9 +3,9 @@ ID: 258
 post_title: Register
 author: Jon Morganeg
 post_excerpt: ""
-layout: post
+layout: page
 permalink: >
-  http://eduguideinsiders.shepherdhistory.org/2017/10/04/register/
+  http://eduguideinsiders.shepherdhistory.org/register/
 published: true
 post_date: 2017-10-04 19:09:21
 ---
