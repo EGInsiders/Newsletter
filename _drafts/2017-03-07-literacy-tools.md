@@ -5,9 +5,8 @@ author: Jon Morganeg
 post_excerpt: ""
 layout: post
 permalink: >
-  http://eduguideinsiders.shepherdhistory.org/2017/03/07/literacy-tools/
-published: true
-post_date: 2017-03-07 23:08:04
+  http://eduguideinsiders.shepherdhistory.org/?p=68
+published: false
 ---
 <p>Students are able to easily access a new set of tools that can help them understand terminology used inside the EduGuide Path. Highlighting a word will display a definition of that word, and will automatically save the word inside a personal glossary which can be accessed by selecting My Glossary from the upper left menu . Students can also translate words into different languages., or hear the word pronounced aloud. </p>
 <p></p>
