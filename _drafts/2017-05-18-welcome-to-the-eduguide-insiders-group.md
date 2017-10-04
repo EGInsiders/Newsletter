@@ -5,9 +5,8 @@ author: Jon Morganeg
 post_excerpt: ""
 layout: post
 permalink: >
-  http://eduguideinsiders.shepherdhistory.org/2017/05/18/welcome-to-the-eduguide-insiders-group/
-published: true
-post_date: 2017-05-18 02:05:32
+  http://eduguideinsiders.shepherdhistory.org/?p=94
+published: false
 ---
 <h1>Welcome to the EduGuide Insiders Group</h1>
 <p></p>
