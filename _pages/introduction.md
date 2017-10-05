@@ -15,7 +15,7 @@ The organization is looking for volunteer testers who are interested in dedicati
 
 You do not need to be a professional tester in order to participate. In fact, we are looking for people with a wide range of technical skills. You should have access to a computer, the Internet, and around five hours per week to dedicate towards testing. A lot of the testing could take one or two sessions, while other exercises might stretch over a few weeks. It is up to you to decide which exercises you can accept.
 
-Click the link to register to become a tester, or contact me by clicking on the blue “Get in Touch” button located along the left hand side of the screen. I can also be contacted via email at <a href="mailto:jon@eduguide.org">jon@eduguide.org</a>.
+<a href="http://eduguideinsiders.shepherdhistory.org/egsignup/">Click the link to register to become a tester</a>, or contact me by clicking on the blue “Get in Touch” button located along the left hand side of the screen. I can also be contacted via email at <a href="mailto:jon@eduguide.org">jon@eduguide.org</a>.
 
 Thanks,
 
