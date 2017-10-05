@@ -9,7 +9,6 @@ permalink: >
 published: true
 post_date: 2017-10-05 15:28:19
 ---
-<h1>Resetting your Password</h1>
 If you find that you are having trouble remembering your account password, you can ask for a password reminder. While you are on the login page click on “Forgot password” underneath the login button. You will be taken to a new page where you are prompted to enter in the email address that you use when you log into your account. After submitting your email address, you will be sent an email message with a link. When you click on the link, you will be taken to a page where you can enter in a new password.
 <h2>Testing Script</h2>
 <img title="" src="http://eduguideinsiders.shepherdhistory.org/wp-content/uploads/2017/10/null-4.png" alt="" width="624" height="332" />
@@ -49,3 +48,5 @@ Then I am taken to the site
 And prompted to enter in a new password
 
 And is logged in
+
+<a href="https://docs.google.com/document/d/1Zqp6xIfOD4fdIX1d3BC3Z7At0AV4QGPQNzI8d6A0zXg/edit?usp=sharing">View Google Doc</a>
