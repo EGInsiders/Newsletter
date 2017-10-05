@@ -5,7 +5,7 @@ author: Jon Morganeg
 post_excerpt: ""
 layout: page
 permalink: >
-  http://eduguideinsiders.shepherdhistory.org/sign-up-to-be-a-volunteer-tester/
+  http://eduguideinsiders.shepherdhistory.org/egsignup/
 published: true
 post_date: 2017-10-05 22:19:48
 ---
