@@ -1,6 +1,6 @@
 ---
 ID: 10
-post_title: Activity
+post_title: Newsfeed
 author: 32bpwr3@gmail.com
 post_excerpt: ""
 layout: page
