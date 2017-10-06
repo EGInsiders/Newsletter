@@ -5,7 +5,7 @@ author: Jon Morganeg
 post_excerpt: ""
 layout: page
 permalink: >
-  http://eduguideinsiders.shepherdhistory.org/introduction/
+  http://eduguideinsiders.shepherdhistory.org/
 published: true
 post_date: 2017-10-05 22:32:26
 ---
