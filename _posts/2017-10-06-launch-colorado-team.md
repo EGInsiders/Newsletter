@@ -50,8 +50,9 @@ Here are some things to think about as you are receiving the notifications and r
  	<li>How helpful was the messaging in each notification? Did it answer the questions you might have about EduGuide, or your role as coach on the team?</li>
  	<li>As an admin coach, how easy was it to send out the reminder to pending coaches?</li>
 </ol>
+<h2></h2>
 <h2>Pick up this Assignment</h2>
-[contact-form][contact-field label="Name" type="name" required="1"][contact-field label="Email" type="email" required="1"][contact-field label="Message" type="textarea"][/contact-form]
+[contact-form to="web@eduguide.org" subject="Colorado Test Team"][contact-field label="Name" type="name" required="1"][contact-field label="Email" type="email" required="1"][contact-field label="Message" type="textarea"][/contact-form]
 
 &nbsp;
 
