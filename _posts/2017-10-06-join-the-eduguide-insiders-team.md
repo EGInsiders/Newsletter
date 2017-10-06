@@ -18,4 +18,8 @@ To join, complete the steps below:
 </ol>
 The EduGuide Insider’s team dashboard can be used to communicate with other testers, or this is a good place to go when you want to check out new features.
 
+&nbsp;
+
+<hr />
+
 <a href="https://docs.google.com/document/d/1ehnRPuQ-ebLUBj0omjLYU_jJHUVBj176zotd-RIP50s/edit?usp=sharing">Edit Google Doc</a>
