@@ -10,7 +10,7 @@ published: true
 post_date: 2017-10-06 14:24:11
 ---
 <h2>Launching the Team</h2>
-The goal of this testing exercise is to take a teacher or a group of teachers through the process of launching a core learning path from start to finish. I’ve started the team “Colorado Test Team” on the live site and invited Susan Cirella to launch it. From this point forward, it is up to her to configure the team.
+The goal of this testing exercise is to take a teacher or a group of teachers through the process of launching a core learning path from start to finish. I’ve started the team “Colorado Test Team” on the live site and invited Susan Cirella to launch it. From this point forward, it is up to her to configure the team.<!--more-->
 
 When Susan joins the team she will be taken to the Test Colorado team’s setup page, where she will be prompted to take the following actions:
 <ul>
