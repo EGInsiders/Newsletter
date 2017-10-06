@@ -11,6 +11,8 @@ post_date: 2017-10-06 12:34:46
 ---
 Membership on the site is by invitation only, so I’ve set up an <i>EduGuide Insiders</i> team where testers can try out most of EduGuide.org’s features.
 
+<!--more-->
+
 To join, complete the steps below:
 <ol>
  	<li>Go to <a href="https://www.eduguide.org/join/?invitationCode=2375567">https://www.eduguide.org/join/?invitationCode=2375567</a></li>
