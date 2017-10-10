@@ -13,4 +13,4 @@ I need a few people who can join a test team "Aardvark Team" on our staging site
 
 If you are interested, use the form below to submit your information.
 
-[contact-form][contact-field label="Name" type="name"  required="true" /][contact-field label="Email" type="email" required="true" /][contact-field label="Website" type="url" /][contact-field label="Message" type="textarea" /][/contact-form]
+[contact-form][contact-field label="Name" type="name" required="1"][contact-field label="Email" type="email" required="1"][contact-field label="Message" type="textarea"][/contact-form]
