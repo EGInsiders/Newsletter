@@ -27,3 +27,4 @@ published: false
 </ul>
 <p>Additionally, watch for anything that you feel the students shouldn’t be able to do. For example, a student shouldn’t be able to remove another user from the team.</p>
 <p>You can log issues by using the “Help” tab inside the site, or sending an email message to <a href="mailto:web@eduguide.org">web@eduguide.org</a>. I am also available via live chat during business hours, if you have any questions or see something that you would like to clarify.</p>
+<p>Sign up for this testing assignment here.</p>
