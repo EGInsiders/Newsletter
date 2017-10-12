@@ -7,8 +7,9 @@ author: Jon Morganeg
 post_excerpt: ""
 layout: post
 permalink: >
-  http://eduguideinsiders.shepherdhistory.org/?p=453
-published: false
+  http://eduguideinsiders.shepherdhistory.org/2017/10/12/test-interaction-of-unrestricted-students-with-core-learning-path/
+published: true
+post_date: 2017-10-12 14:21:43
 ---
 <h1>Test interaction of unrestricted students with Core Learning Path</h1>
 I am looking for a few volunteer testers who would be able to join a team on the staging site which has been set up so that when students join they are full members. This means that after joining as a student you will be able to access the team dashboard, but you will also be subscribed to the path. Normally, students are restricted so that they can only see the path interface and their personal dashboards.
