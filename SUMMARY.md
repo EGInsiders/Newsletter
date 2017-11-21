@@ -11,8 +11,6 @@
 
 * [Resetting Your Password](_posts/2017-10-05-resetting-your-password.md)
 
-
-
 ## Forums
 
 * [Suggested Changes](http://eduguide.freshdesk.com/support/discussions/forums/3000000805)
