@@ -16,9 +16,7 @@
 
 ## Resources
 
-* [Medium](https://medium.com/eduguide-insider)
 * [Google Community](https://eduguideinsiders.gitbooks.io/eduguide-insiders/content/)
-* [EduGuide Insiders Forum](http://eduguide.freshdesk.com/support/discussions/3000000297)
-
+* [Website](http://eduguideinsiders.shepherdhistory.org)
 
 
