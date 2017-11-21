@@ -5,8 +5,9 @@ author: Jon Morganeg
 post_excerpt: ""
 layout: post
 permalink: >
-  http://eduguideinsiders.shepherdhistory.org/?p=543
-published: false
+  http://eduguideinsiders.shepherdhistory.org/2017/11/21/eduguide-insiders-website/
+published: true
+post_date: 2017-11-21 02:17:16
 ---
 I will be publishing news, testing announcements, assignment information, and other resources inside a new website for EduGuide Insiders. It’s in the very early stages. Visitors on the site will need to register as a user tester. Once you have an account, you will be able to access the members-only resources.
 
