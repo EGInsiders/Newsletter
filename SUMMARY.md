@@ -4,8 +4,14 @@
 
 ## Blog Posts
 
-* [Why User Testing is important](_posts/2017-09-08-why-user-testing-is-important.md)
-* [New Features 8/16](Announcements/2017-08-17-New-Features-8/16.md)
+* [EduGuide Insiders Website](_posts/2017-11-21-eduguide-insiders-website.md)
+* [Getting Started with Testing](_posts/2017-11-21-getting-started-with-testing.md)
+
+## Knowledgebase
+
+* [Resetting Your Password](_posts/2017-10-05-resetting-your-password.md)
+
+
 
 ## Forums
 
