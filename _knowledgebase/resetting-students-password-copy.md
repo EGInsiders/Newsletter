@@ -1,6 +1,6 @@
 ---
 ID: 557
-post_title: 'Resetting Students&#8217; Password  Copy'
+post_title: 'Resetting Students&#8217; Password'
 author: Jon Morganeg
 post_excerpt: ""
 layout: kbe_knowledgebase
