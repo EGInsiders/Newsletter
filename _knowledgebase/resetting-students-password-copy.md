@@ -3,9 +3,9 @@ ID: 557
 post_title: 'Resetting Students&#8217; Password  Copy'
 author: Jon Morganeg
 post_excerpt: ""
-layout: post
+layout: kbe_knowledgebase
 permalink: >
-  http://eduguideinsiders.shepherdhistory.org/2017/11/21/resetting-students-password-copy/
+  http://eduguideinsiders.shepherdhistory.org/knowledgebase/resetting-students-password-copy/
 published: true
 post_date: 2017-11-21 23:08:55
 ---
