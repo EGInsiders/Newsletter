@@ -9,7 +9,11 @@
 
 ## Knowledgebase
 
-* [Resetting Your Password](_posts/2017-10-05-resetting-your-password.md)
+* [Resetting Students' Passwords](_posts/2017-11-16-resetting-students-password.md)
+
+## Testing Assignments
+
+* [Team Coach Join Testing](_posts/2017-11-22-assignment-team-join-process-for-coaches.md)
 
 ## Forums
 
