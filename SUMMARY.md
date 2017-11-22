@@ -6,6 +6,7 @@
 
 * [EduGuide Insiders Website](_posts/2017-11-21-eduguide-insiders-website.md)
 * [Getting Started with Testing](_posts/2017-11-21-getting-started-with-testing.md)
+* [Sharing Feedback](_posts/2017-11-22-sharing-feedback.md)
 
 ## Knowledgebase
 
