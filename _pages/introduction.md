@@ -19,8 +19,7 @@ post_date: 2017-10-05 22:32:26
 <p>Thanks,</p>
 <p></p>
 <p>Jon Morgan</p>
-<p>Web Services Manager</p>
 <p></p>
-<p></p>
+<p>-30-</p>
 <p></p>
 <p><a href="https://docs.google.com/document/d/1IAp8zYItTbQZgLl5cvhJU9rYwB56cPZGrZ_2b_7CtT4/edit?usp=sharing">Edit Google Document</a></p>
