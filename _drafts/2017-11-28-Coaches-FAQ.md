@@ -1,6 +1,6 @@
 ---
 ID: 588
-post_title: FAQ
+post_title: Coaches FAQ
 author: Jon Morgan
 post_excerpt: ""
 layout: post
@@ -64,3 +64,5 @@ published: false
 <h2>Q. Can I send messages to my students? </h2>
 <p>You’ll find additional offline activities, discussion guides, help topics and other resources in your team’s EduGuide library and help center. </p>
 <p></p>
+<p></p>
+<p><a href="https://docs.google.com/document/d/18603zSsYc_ta7AlwWhsRPBD8beinSQrSUtCdhS4KOkE/edit?usp=sharing">Edit Google Doc</a></p>
