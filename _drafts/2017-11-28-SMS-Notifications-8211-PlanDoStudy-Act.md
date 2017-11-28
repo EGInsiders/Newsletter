@@ -1,11 +1,11 @@
 ---
 ID: 486
 post_title: 'SMS Notifications &#8211; Plan/Do/Study Act'
-author: Jon Morganeg
+author: Jon Morgan
 post_excerpt: ""
 layout: post
 permalink: >
-  http://eduguideinsiders.shepherdhistory.org/?p=486
+  http://glitchfork.shepherdhistory.org/?p=486
 published: false
 ---
 <h1>SMS Notifications - Plan/Do/Study Act</h1>
