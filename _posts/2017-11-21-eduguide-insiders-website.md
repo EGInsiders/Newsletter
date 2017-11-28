@@ -1,11 +1,11 @@
 ---
 ID: 543
 post_title: EduGuide Insiders Website
-author: Jon Morganeg
+author: Jon Morgan
 post_excerpt: ""
 layout: post
 permalink: >
-  http://eduguideinsiders.shepherdhistory.org/2017/11/21/eduguide-insiders-website/
+  http://glitchfork.shepherdhistory.org/2017/11/21/eduguide-insiders-website/
 published: true
 post_date: 2017-11-21 02:17:16
 ---
