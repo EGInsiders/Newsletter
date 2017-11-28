@@ -1,11 +1,11 @@
 ---
 ID: 478
 post_title: Enabling and Disabling Autogroups
-author: Jon Morganeg
+author: Jon Morgan
 post_excerpt: ""
 layout: post
 permalink: >
-  http://eduguideinsiders.shepherdhistory.org/?p=478
+  http://glitchfork.shepherdhistory.org/?p=478
 published: false
 ---
 <p>Autogroups is a feature on the site which, when enabled, will automatically create a new group for the lead coaches who are invited to join the team. When Autogroup is turned on, a new group is created for each lead coach as an invitation is going out. Initially, the pending lead coach’s email address is displayed as the group’s name. When the lead coach joins the site, the group’s title is changed so that it contains their full name.</p>
