@@ -1,11 +1,11 @@
 ---
 ID: 481
 post_title: Assigning team goals to members
-author: Jon Morganeg
+author: Jon Morgan
 post_excerpt: ""
 layout: post
 permalink: >
-  http://eduguideinsiders.shepherdhistory.org/?p=481
+  http://glitchfork.shepherdhistory.org/?p=481
 published: false
 ---
 <p>For those students who have already joined, you will have to manually add them to the 3 Team Goals. To do this:</p>
