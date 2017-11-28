@@ -1,11 +1,11 @@
 ---
 ID: 567
 post_title: Sharing Feedback
-author: Jon Morganeg
+author: Jon Morgan
 post_excerpt: ""
 layout: post
 permalink: >
-  http://eduguideinsiders.shepherdhistory.org/2017/11/22/sharing-feedback/
+  http://glitchfork.shepherdhistory.org/2017/11/22/sharing-feedback/
 published: true
 post_date: 2017-11-22 03:58:48
 ---
