@@ -1,11 +1,11 @@
 ---
 ID: 549
 post_title: Getting Started with Testing
-author: Jon Morganeg
+author: Jon Morgan
 post_excerpt: ""
 layout: post
 permalink: >
-  http://eduguideinsiders.shepherdhistory.org/2017/11/21/getting-started-with-testing/
+  http://glitchfork.shepherdhistory.org/2017/11/21/getting-started-with-testing/
 published: true
 post_date: 2017-11-21 03:11:57
 ---
