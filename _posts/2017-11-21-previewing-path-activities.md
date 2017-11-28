@@ -1,11 +1,11 @@
 ---
 ID: 492
 post_title: Previewing Path Activities
-author: Jon Morganeg
+author: Jon Morgan
 post_excerpt: ""
 layout: post
 permalink: >
-  http://eduguideinsiders.shepherdhistory.org/2017/11/21/previewing-path-activities/
+  http://glitchfork.shepherdhistory.org/2017/11/21/previewing-path-activities/
 published: true
 post_date: 2017-11-21 15:12:26
 ---
