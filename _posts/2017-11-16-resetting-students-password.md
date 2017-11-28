@@ -1,11 +1,11 @@
 ---
 ID: 499
 post_title: 'Resetting Students&#8217; Password'
-author: Jon Morganeg
+author: Jon Morgan
 post_excerpt: ""
 layout: post
 permalink: >
-  http://eduguideinsiders.shepherdhistory.org/2017/11/16/resetting-students-password/
+  http://glitchfork.shepherdhistory.org/2017/11/16/resetting-students-password/
 published: true
 post_date: 2017-11-16 22:20:05
 ---
