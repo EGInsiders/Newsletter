@@ -1,11 +1,11 @@
 ---
 ID: 562
 post_title: 'Assignment:  Team Join Process for Coaches'
-author: Jon Morganeg
+author: Jon Morgan
 post_excerpt: ""
 layout: post
 permalink: >
-  http://eduguideinsiders.shepherdhistory.org/2017/11/22/assignment-team-join-process-for-coaches/
+  http://glitchfork.shepherdhistory.org/2017/11/22/assignment-team-join-process-for-coaches/
 published: true
 post_date: 2017-11-22 02:24:28
 ---
