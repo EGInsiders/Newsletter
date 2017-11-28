@@ -1,11 +1,11 @@
 ---
 ID: 483
 post_title: SMS Notifications
-author: Jon Morganeg
+author: Jon Morgan
 post_excerpt: ""
 layout: post
 permalink: >
-  http://eduguideinsiders.shepherdhistory.org/?p=483
+  http://glitchfork.shepherdhistory.org/?p=483
 published: false
 ---
 <p>I am looking for feedback on SMS Notifications. Students can subscribe to SMS notifications when they join a team by opting in and entering their cell phone number. They can also edit their SMS notification settings from their My Settings page.</p>
