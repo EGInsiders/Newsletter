@@ -10,6 +10,9 @@ published: true
 post_date: 2017-11-22 03:58:48
 ---
 There are several ways in which you can shared feedback, questions, or descriptions of bugs with EduGuide.
+
+<hr />
+
 <h2>Forum</h2>
 A forum has been set aside <a href="http://eduguide.freshdesk.com/support/discussions/3000000297">inside our support site for testers</a>. You can choose from the following topics within the forum:
 <ul>
